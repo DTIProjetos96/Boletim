@@ -1,0 +1,111 @@
+/* css/styles.css */
+
+/* Estilos personalizados para os boards */
+.kanban-board.boardblue {
+    background-color: #007bff !important;
+    color: white !important;
+    border-radius: 4px !important;
+    padding: 10px !important;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1) !important;
+    transition: background-color 0.3s ease !important;
+}
+
+.kanban-board.boardblue:hover {
+    background-color: #0056b3 !important;
+}
+
+.kanban-board.boardblue .kanban-board-title {
+    background-color: #007bff !important;
+    color: white !important;
+    font-weight: bold !important;
+    padding: 10px !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3) !important;
+}
+
+.kanban-board.boardblue .kanban-items {
+    background-color: #007bff !important;
+    padding: 10px !important;
+}
+
+/* Estilos para os itens das matérias */
+.kanban-item.bgblue {
+    background-color: #17a2b8 !important;
+    color: white !important;
+    border-radius: 4px !important;
+    padding: 10px !important;
+    margin-bottom: 10px !important;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1) !important;
+    transition: background-color 0.3s ease !important;
+}
+
+.kanban-item.bgblue:hover {
+    background-color: #138496 !important;
+}
+
+/* Estilos para os botões dentro dos itens */
+.kanban-item .btn {
+    margin-left: 5px;
+}
+
+/* Estilos para os modais */
+.modal iframe {
+    border: none;
+}
+
+/* Estilos para as listas de matérias disponíveis */
+#listaMateriasDisponiveis ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#listaMateriasDisponiveis li {
+    padding: 5px 0;
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+}
+
+#listaMateriasDisponiveis li:hover {
+    color: darkblue;
+}
+
+/* --- Novos Estilos para Truncamento e Expansão do Texto --- */
+
+/* Esconde o texto completo por padrão */
+.texto-completo {
+    display: none;
+}
+
+/* Estiliza o botão de toggle */
+.toggle-texto {
+    margin-left: 5px;
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+    font-weight: bold;
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+}
+
+/* Adiciona transição suave para a exibição do texto */
+.texto-truncado,
+.texto-completo {
+    transition: all 0.3s ease;
+}
+
+/* Opcional: Melhora a aparência dos botões dentro das matérias */
+.buttons-materia .btn {
+    margin-left: 5px;
+}
+
+/* Opcional: Adiciona estilos personalizados aos boletins e matérias */
+.boardblue {
+    background-color: #e7f1ff; /* Azul claro */
+}
+
+.bgblue {
+    background-color: #cce5ff; /* Azul mais escuro para itens */
+}
+

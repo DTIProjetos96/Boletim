@@ -1,0 +1,207 @@
+[2024-10-31 16:18:08] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=113, item_value=64
+[2024-10-31 16:18:08] Tentativa de atualização: mate_publ_cod=113, novo fk_bole_cod=64. Linhas afetadas: 1
+[2024-10-31 16:18:08] Atualização bem-sucedida para mate_publ_cod=113.
+[2024-10-31 16:18:12] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=136, item_value=66
+[2024-10-31 16:18:12] Tentativa de atualização: mate_publ_cod=136, novo fk_bole_cod=66. Linhas afetadas: 1
+[2024-10-31 16:18:12] Atualização bem-sucedida para mate_publ_cod=136.
+[2024-10-31 16:18:21] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=135, item_value=66
+[2024-10-31 16:18:21] Tentativa de atualização: mate_publ_cod=135, novo fk_bole_cod=66. Linhas afetadas: 1
+[2024-10-31 16:18:21] Atualização bem-sucedida para mate_publ_cod=135.
+[2024-10-31 16:22:15] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=138, item_value=66
+[2024-10-31 16:22:15] Tentativa de atualização: mate_publ_cod=138, novo fk_bole_cod=66. Linhas afetadas: 1
+[2024-10-31 16:22:15] Atualização bem-sucedida para mate_publ_cod=138.
+[2024-10-31 16:45:01] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=112, item_value=64
+[2024-10-31 16:45:01] Tentativa de atualização: mate_publ_cod=112, novo fk_bole_cod=64. Linhas afetadas: 1
+[2024-10-31 16:45:01] Atualização bem-sucedida para mate_publ_cod=112.
+[2024-10-31 16:45:08] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=126, item_value=67
+[2024-10-31 16:45:08] Tentativa de atualização: mate_publ_cod=126, novo fk_bole_cod=67. Linhas afetadas: 1
+[2024-10-31 16:45:08] Atualização bem-sucedida para mate_publ_cod=126.
+[2024-10-31 16:52:24] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=136, item_value=67
+[2024-10-31 16:52:24] Tentativa de atualização: mate_publ_cod=136, novo fk_bole_cod=67. Linhas afetadas: 1
+[2024-10-31 16:52:24] Atualização bem-sucedida para mate_publ_cod=136.
+[2024-10-31 16:53:35] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=132, item_value=67
+[2024-10-31 16:53:35] Tentativa de atualização: mate_publ_cod=132, novo fk_bole_cod=67. Linhas afetadas: 1
+[2024-10-31 16:53:35] Atualização bem-sucedida para mate_publ_cod=132.
+[2024-10-31 16:53:40] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=114, item_value=67
+[2024-10-31 16:53:40] Tentativa de atualização: mate_publ_cod=114, novo fk_bole_cod=67. Linhas afetadas: 1
+[2024-10-31 16:53:40] Atualização bem-sucedida para mate_publ_cod=114.
+[2024-10-31 18:45:57] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=121, item_value=67
+[2024-10-31 18:45:57] Tentativa de atualização: mate_publ_cod=121, novo fk_bole_cod=67. Linhas afetadas: 1
+[2024-10-31 18:45:57] Atualização bem-sucedida para mate_publ_cod=121.
+[2024-10-31 23:00:41] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=138, item_value=67
+[2024-10-31 23:00:41] Tentativa de atualização: mate_publ_cod=138, novo fk_bole_cod=67. Linhas afetadas: 1
+[2024-10-31 23:00:41] Atualização bem-sucedida para mate_publ_cod=138.
+[2024-10-31 23:09:00] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=115, item_value=67
+[2024-10-31 23:09:00] Tentativa de atualização: mate_publ_cod=115, novo fk_bole_cod=67. Linhas afetadas: 1
+[2024-10-31 23:09:00] Atualização bem-sucedida para mate_publ_cod=115.
+[2024-10-31 23:30:18] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=139, item_value=66
+[2024-10-31 23:30:18] Tentativa de atualização: mate_publ_cod=139, novo fk_bole_cod=66. Linhas afetadas: 1
+[2024-10-31 23:30:18] Atualização bem-sucedida para mate_publ_cod=139.
+[2024-10-31 23:56:20] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=115, item_value=66
+[2024-10-31 23:56:20] Tentativa de atualização: mate_publ_cod=115, novo fk_bole_cod=66. Linhas afetadas: 1
+[2024-10-31 23:56:20] Atualização bem-sucedida para mate_publ_cod=115.
+[2024-11-01 02:13:06] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=140, item_value=66
+[2024-11-01 02:13:06] Tentativa de atualização: mate_publ_cod=140, novo fk_bole_cod=66. Linhas afetadas: 1
+[2024-11-01 02:13:06] Atualização bem-sucedida para mate_publ_cod=140.
+[2024-11-01 07:03:14] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=115, item_value=64
+[2024-11-01 07:03:14] Tentativa de atualização: mate_publ_cod=115, novo fk_bole_cod=64. Linhas afetadas: 1
+[2024-11-01 07:03:14] Atualização bem-sucedida para mate_publ_cod=115.
+[2024-11-01 11:29:32] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=142, item_value=66
+[2024-11-01 11:29:32] Tentativa de atualização: mate_publ_cod=142, novo fk_bole_cod=66. Linhas afetadas: 1
+[2024-11-01 11:29:32] Atualização bem-sucedida para mate_publ_cod=142.
+[2024-11-01 11:50:42] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=152, item_value=66
+[2024-11-01 11:50:42] Tentativa de atualização: mate_publ_cod=152, novo fk_bole_cod=66. Linhas afetadas: 1
+[2024-11-01 11:50:42] Atualização bem-sucedida para mate_publ_cod=152.
+[2024-11-08 04:28:31] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=142, item_value=67
+[2024-11-08 04:28:31] Tentativa de atualização: mate_publ_cod=142, novo fk_bole_cod=67. Linhas afetadas: 1
+[2024-11-08 04:28:31] Atualização bem-sucedida para mate_publ_cod=142.
+[2024-11-08 04:32:34] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=114, item_value=66
+[2024-11-08 04:32:34] Tentativa de atualização: mate_publ_cod=114, novo fk_bole_cod=66. Linhas afetadas: 1
+[2024-11-08 04:32:34] Atualização bem-sucedida para mate_publ_cod=114.
+[2024-11-08 05:08:16] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=142, item_value=66
+[2024-11-08 05:08:16] Tentativa de atualização: mate_publ_cod=142, novo fk_bole_cod=66. Linhas afetadas: 1
+[2024-11-08 05:08:16] Atualização bem-sucedida para mate_publ_cod=142.
+[2024-11-08 05:23:49] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=142, item_value=64
+[2024-11-08 05:23:49] Tentativa de atualização: mate_publ_cod=142, novo fk_bole_cod=64. Linhas afetadas: 1
+[2024-11-08 05:23:49] Atualização bem-sucedida para mate_publ_cod=142.
+[2024-11-08 05:23:59] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=152, item_value=64
+[2024-11-08 05:23:59] Tentativa de atualização: mate_publ_cod=152, novo fk_bole_cod=64. Linhas afetadas: 1
+[2024-11-08 05:23:59] Atualização bem-sucedida para mate_publ_cod=152.
+[2024-11-08 06:17:51] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=142, item_value=67
+[2024-11-08 06:17:51] Tentativa de atualização: mate_publ_cod=142, novo fk_bole_cod=67. Linhas afetadas: 1
+[2024-11-08 06:17:51] Atualização bem-sucedida para mate_publ_cod=142.
+[2024-11-08 06:18:20] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=126, item_value=66
+[2024-11-08 06:18:20] Tentativa de atualização: mate_publ_cod=126, novo fk_bole_cod=66. Linhas afetadas: 1
+[2024-11-08 06:18:20] Atualização bem-sucedida para mate_publ_cod=126.
+[2024-11-08 06:18:28] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=147, item_value=66
+[2024-11-08 06:18:28] Tentativa de atualização: mate_publ_cod=147, novo fk_bole_cod=66. Linhas afetadas: 1
+[2024-11-08 06:18:28] Atualização bem-sucedida para mate_publ_cod=147.
+[2024-11-08 06:18:32] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=153, item_value=66
+[2024-11-08 06:18:32] Tentativa de atualização: mate_publ_cod=153, novo fk_bole_cod=66. Linhas afetadas: 1
+[2024-11-08 06:18:32] Atualização bem-sucedida para mate_publ_cod=153.
+[2024-11-08 06:19:08] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=153, item_value=66
+[2024-11-08 06:19:08] Tentativa de atualização: mate_publ_cod=153, novo fk_bole_cod=66. Linhas afetadas: 1
+[2024-11-08 06:19:08] Atualização bem-sucedida para mate_publ_cod=153.
+[2024-11-08 06:19:15] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=154, item_value=66
+[2024-11-08 06:19:15] Tentativa de atualização: mate_publ_cod=154, novo fk_bole_cod=66. Linhas afetadas: 1
+[2024-11-08 06:19:15] Atualização bem-sucedida para mate_publ_cod=154.
+[2024-11-08 06:19:29] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=154, item_value=66
+[2024-11-08 06:19:29] Tentativa de atualização: mate_publ_cod=154, novo fk_bole_cod=66. Linhas afetadas: 1
+[2024-11-08 06:19:29] Atualização bem-sucedida para mate_publ_cod=154.
+[2024-11-08 10:31:55] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=131, item_value=67
+[2024-11-08 10:31:55] Tentativa de atualização: mate_publ_cod=131, novo fk_bole_cod=67. Linhas afetadas: 1
+[2024-11-08 10:31:55] Atualização bem-sucedida para mate_publ_cod=131.
+[2024-11-08 10:32:05] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=130, item_value=67
+[2024-11-08 10:32:05] Tentativa de atualização: mate_publ_cod=130, novo fk_bole_cod=67. Linhas afetadas: 1
+[2024-11-08 10:32:05] Atualização bem-sucedida para mate_publ_cod=130.
+[2024-11-08 10:32:25] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=103, item_value=67
+[2024-11-08 10:32:25] Tentativa de atualização: mate_publ_cod=103, novo fk_bole_cod=67. Linhas afetadas: 1
+[2024-11-08 10:32:25] Atualização bem-sucedida para mate_publ_cod=103.
+[2024-11-08 10:32:34] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=120, item_value=67
+[2024-11-08 10:32:34] Tentativa de atualização: mate_publ_cod=120, novo fk_bole_cod=67. Linhas afetadas: 1
+[2024-11-08 10:32:34] Atualização bem-sucedida para mate_publ_cod=120.
+[2024-11-10 09:50:16] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=126, item_value=64
+[2024-11-10 09:50:16] Tentativa de atualização: mate_publ_cod=126, novo fk_bole_cod=64. Linhas afetadas: 1
+[2024-11-10 09:50:16] Atualização bem-sucedida para mate_publ_cod=126.
+[2024-11-12 14:04:08] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=167, item_value=68
+[2024-11-12 14:04:08] Tentativa de atualização: mate_publ_cod=167, novo fk_bole_cod=68. Linhas afetadas: 1
+[2024-11-12 14:04:08] Atualização bem-sucedida para mate_publ_cod=167.
+[2024-11-12 14:04:12] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=165, item_value=69
+[2024-11-12 14:04:12] Tentativa de atualização: mate_publ_cod=165, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-11-12 14:04:12] Atualização bem-sucedida para mate_publ_cod=165.
+[2024-11-14 13:39:23] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=165, item_value=68
+[2024-11-14 13:39:23] Tentativa de atualização: mate_publ_cod=165, novo fk_bole_cod=68. Linhas afetadas: 1
+[2024-11-14 13:39:23] Atualização bem-sucedida para mate_publ_cod=165.
+[2024-11-14 13:39:37] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=165, item_value=69
+[2024-11-14 13:39:37] Tentativa de atualização: mate_publ_cod=165, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-11-14 13:39:37] Atualização bem-sucedida para mate_publ_cod=165.
+[2024-11-25 13:38:19] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=168, item_value=69
+[2024-11-25 13:38:19] Tentativa de atualização: mate_publ_cod=168, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-11-25 13:38:19] Atualização bem-sucedida para mate_publ_cod=168.
+[2024-11-26 13:39:53] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=167, item_value=69
+[2024-11-26 13:39:53] Tentativa de atualização: mate_publ_cod=167, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-11-26 13:39:53] Atualização bem-sucedida para mate_publ_cod=167.
+[2024-11-27 14:18:53] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=165, item_value=68
+[2024-11-27 14:18:53] Tentativa de atualização: mate_publ_cod=165, novo fk_bole_cod=68. Linhas afetadas: 1
+[2024-11-27 14:18:53] Atualização bem-sucedida para mate_publ_cod=165.
+[2024-11-27 14:18:56] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=170, item_value=68
+[2024-11-27 14:18:56] Tentativa de atualização: mate_publ_cod=170, novo fk_bole_cod=68. Linhas afetadas: 1
+[2024-11-27 14:18:56] Atualização bem-sucedida para mate_publ_cod=170.
+[2024-11-27 14:18:59] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=172, item_value=68
+[2024-11-27 14:18:59] Tentativa de atualização: mate_publ_cod=172, novo fk_bole_cod=68. Linhas afetadas: 1
+[2024-11-27 14:18:59] Atualização bem-sucedida para mate_publ_cod=172.
+[2024-11-27 14:23:18] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=164, item_value=69
+[2024-11-27 14:23:18] Tentativa de atualização: mate_publ_cod=164, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-11-27 14:23:18] Atualização bem-sucedida para mate_publ_cod=164.
+[2024-11-27 14:23:52] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=165, item_value=69
+[2024-11-27 14:23:52] Tentativa de atualização: mate_publ_cod=165, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-11-27 14:23:52] Atualização bem-sucedida para mate_publ_cod=165.
+[2024-11-27 14:27:16] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=170, item_value=69
+[2024-11-27 14:27:16] Tentativa de atualização: mate_publ_cod=170, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-11-27 14:27:16] Atualização bem-sucedida para mate_publ_cod=170.
+[2024-11-27 14:27:19] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=172, item_value=69
+[2024-11-27 14:27:19] Tentativa de atualização: mate_publ_cod=172, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-11-27 14:27:19] Atualização bem-sucedida para mate_publ_cod=172.
+[2024-12-03 13:21:41] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=175, item_value=68
+[2024-12-03 13:21:41] Tentativa de atualização: mate_publ_cod=175, novo fk_bole_cod=68. Linhas afetadas: 1
+[2024-12-03 13:21:41] Atualização bem-sucedida para mate_publ_cod=175.
+[2024-12-03 13:21:45] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=165, item_value=68
+[2024-12-03 13:21:45] Tentativa de atualização: mate_publ_cod=165, novo fk_bole_cod=68. Linhas afetadas: 1
+[2024-12-03 13:21:45] Atualização bem-sucedida para mate_publ_cod=165.
+[2024-12-03 13:47:06] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=175, item_value=69
+[2024-12-03 13:47:06] Tentativa de atualização: mate_publ_cod=175, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-12-03 13:47:06] Atualização bem-sucedida para mate_publ_cod=175.
+[2024-12-03 14:50:06] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=179, item_value=69
+[2024-12-03 14:50:06] Tentativa de atualização: mate_publ_cod=179, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-12-03 14:50:06] Atualização bem-sucedida para mate_publ_cod=179.
+[2024-12-04 15:18:39] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=165, item_value=70
+[2024-12-04 15:18:39] Tentativa de atualização: mate_publ_cod=165, novo fk_bole_cod=70. Linhas afetadas: 1
+[2024-12-04 15:18:39] Atualização bem-sucedida para mate_publ_cod=165.
+[2024-12-04 15:20:29] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=179, item_value=70
+[2024-12-04 15:20:29] Tentativa de atualização: mate_publ_cod=179, novo fk_bole_cod=70. Linhas afetadas: 1
+[2024-12-04 15:20:29] Atualização bem-sucedida para mate_publ_cod=179.
+[2024-12-13 14:10:20] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=181, item_value=69
+[2024-12-13 14:10:20] Tentativa de atualização: mate_publ_cod=181, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-12-13 14:10:20] Atualização bem-sucedida para mate_publ_cod=181.
+[2024-12-13 14:10:25] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=183, item_value=69
+[2024-12-13 14:10:25] Tentativa de atualização: mate_publ_cod=183, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-12-13 14:10:25] Atualização bem-sucedida para mate_publ_cod=183.
+[2024-12-13 14:10:28] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=185, item_value=69
+[2024-12-13 14:10:28] Tentativa de atualização: mate_publ_cod=185, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-12-13 14:10:28] Atualização bem-sucedida para mate_publ_cod=185.
+[2024-12-17 11:49:34] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=184, item_value=69
+[2024-12-17 11:49:34] Tentativa de atualização: mate_publ_cod=184, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-12-17 11:49:34] Atualização bem-sucedida para mate_publ_cod=184.
+[2024-12-17 11:49:46] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=177, item_value=68
+[2024-12-17 11:49:46] Tentativa de atualização: mate_publ_cod=177, novo fk_bole_cod=68. Linhas afetadas: 1
+[2024-12-17 11:49:46] Atualização bem-sucedida para mate_publ_cod=177.
+[2024-12-17 11:49:50] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=170, item_value=68
+[2024-12-17 11:49:50] Tentativa de atualização: mate_publ_cod=170, novo fk_bole_cod=68. Linhas afetadas: 1
+[2024-12-17 11:49:50] Atualização bem-sucedida para mate_publ_cod=170.
+[2024-12-17 11:49:52] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=171, item_value=68
+[2024-12-17 11:49:52] Tentativa de atualização: mate_publ_cod=171, novo fk_bole_cod=68. Linhas afetadas: 1
+[2024-12-17 11:49:52] Atualização bem-sucedida para mate_publ_cod=171.
+[2024-12-17 11:49:56] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=182, item_value=69
+[2024-12-17 11:49:56] Tentativa de atualização: mate_publ_cod=182, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-12-17 11:49:56] Atualização bem-sucedida para mate_publ_cod=182.
+[2024-12-17 16:07:02] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=177, item_value=69
+[2024-12-17 16:07:02] Tentativa de atualização: mate_publ_cod=177, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-12-17 16:07:02] Atualização bem-sucedida para mate_publ_cod=177.
+[2024-12-23 13:33:23] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=170, item_value=69
+[2024-12-23 13:33:23] Tentativa de atualização: mate_publ_cod=170, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-12-23 13:33:23] Atualização bem-sucedida para mate_publ_cod=170.
+[2024-12-27 01:45:56] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=175, item_value=68
+[2024-12-27 01:45:56] Tentativa de atualização: mate_publ_cod=175, novo fk_bole_cod=68. Linhas afetadas: 1
+[2024-12-27 01:45:56] Atualização bem-sucedida para mate_publ_cod=175.
+[2024-12-27 03:44:17] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=249, item_value=69
+[2024-12-27 03:44:17] Tentativa de atualização: mate_publ_cod=249, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-12-27 03:44:17] Atualização bem-sucedida para mate_publ_cod=249.
+[2024-12-27 03:44:58] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=232, item_value=69
+[2024-12-27 03:44:59] Tentativa de atualização: mate_publ_cod=232, novo fk_bole_cod=69. Linhas afetadas: 1
+[2024-12-27 03:44:59] Atualização bem-sucedida para mate_publ_cod=232.
+[2024-12-27 03:45:02] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=249, item_value=70
+[2024-12-27 03:45:02] Tentativa de atualização: mate_publ_cod=249, novo fk_bole_cod=70. Linhas afetadas: 1
+[2024-12-27 03:45:02] Atualização bem-sucedida para mate_publ_cod=249.
+[2024-12-27 03:45:10] Recebido AJAX 'save': item_mode=updstep, mate_publ_cod=178, item_value=70
+[2024-12-27 03:45:10] Tentativa de atualização: mate_publ_cod=178, novo fk_bole_cod=70. Linhas afetadas: 1
+[2024-12-27 03:45:10] Atualização bem-sucedida para mate_publ_cod=178.

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escala de Serviço - Kanban</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .kanban {
+            display: flex;
+            justify-content: space-around;
+            padding: 20px;
+        }
+        .column {
+            background-color: #fff;
+            border-radius: 5px;
+            width: 30%;
+            padding: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .column h2 {
+            text-align: center;
+        }
+        .card {
+            background-color: #e3f2fd;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .form-container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        input, select {
+            margin: 5px;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <h2>Adicionar Escala de Serviço</h2>
+        <input type="text" id="turno" placeholder="Turno (Manhã/Tarde/Noite)">
+        <input type="text" id="tipoEscala" placeholder="Tipo de Escala">
+        <input type="text" id="policiais" placeholder="Policiais (nomes separados por vírgula)">
+        <input type="text" id="lugar" placeholder="Lugar da Escala">
+        <input type="date" id="data">
+        <button onclick="addCard()">Adicionar</button>
+    </div>
+
+    <div class="kanban">
+        <div class="column" id="turnosDisponiveis">
+            <h2>Turnos Disponíveis</h2>
+        </div>
+        <div class="column" id="policiaisAlocados">
+            <h2>Policiais Alocados</h2>
+        </div>
+        <div class="column" id="concluido">
+            <h2>Concluído</h2>
+        </div>
+    </div>
+
+    <script>
+        function addCard() {
+            const turno = document.getElementById('turno').value;
+            const tipoEscala = document.getElementById('tipoEscala').value;
+            const policiais = document.getElementById('policiais').value;
+            const lugar = document.getElementById('lugar').value;
+            const data = document.getElementById('data').value;
+
+            if (turno && tipoEscala && policiais && lugar && data) {
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `<strong>Turno:</strong> ${turno}<br>
+                                  <strong>Tipo de Escala:</strong> ${tipoEscala}<br>
+                                  <strong>Policiais:</strong> ${policiais}<br>
+                                  <strong>Lugar:</strong> ${lugar}<br>
+                                  <strong>Data:</strong> ${data}`;
+                card.draggable = true;
+                card.ondragstart = drag;
+
+                document.getElementById('turnosDisponiveis').appendChild(card);
+                clearForm();
+            } else {
+                alert('Por favor, preencha todos os campos.');
+            }
+        }
+
+        function clearForm() {
+            document.getElementById('turno').value = '';
+            document.getElementById('tipoEscala').value = '';
+            document.getElementById('policiais').value = '';
+            document.getElementById('lugar').value = '';
+            document.getElementById('data').value = '';
+        }
+
+        function allowDrop(ev) {
+            ev.preventDefault();
+        }
+
+        function drag(ev) {
+            ev.dataTransfer.setData("text", ev.target.id);
+        }
+
+        function drop(ev) {
+            ev.preventDefault();
+            const data = ev.dataTransfer.getData("text");
+            ev.target.appendChild(document.getElementById(data));
+        }
+
+        document.querySelectorAll('.column').forEach(column => {
+            column.ondrop = drop;
+            column.ondragover = allowDrop;
+        });
+    </script>
+</body>
+</html>
